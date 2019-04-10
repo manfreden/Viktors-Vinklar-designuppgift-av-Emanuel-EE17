@@ -1,71 +1,51 @@
 ﻿Stationär datorer: HP Z2 Mini G4 arbetsstation
 Jag valde den här datorn för att den stödjer AutoCad dessutom är den  liten och har en kraftfull processor. Man kan använda upp till sex skärmar, fyra ursprungliga och två kedjekopplade, även fast den är så liten. Datorn har 3 års garanti samt support och serviceavtal vilket avser  material- och tillverkningsfel samt reparation på platsen
 
-
 Laptop: HP ProBook 470 G5
 Den främsta anledningen varför jag valde den här laptopen är på grund av att det är samma tillverkare som den stationära datorn och den klarar av enklare cad projekt. Utöver detta har den även en batterilivslängd som räcker hela arbetsdagen och längre. Datorn har 1 års garanti och supportavtal.
-
 
 Dockningsstation: HP USB Travel
 Den här dockningsstationen är liten och enkel och prisvärd, samt ett års garanti.
 
-
 Dataskärm: Voxicon D27QO IPS
 Den här skärmen valde jag för att den har en minimalistisk design och tar lite plats på skrivbordet, samt att den har 3 års service och supportavtal. Den har en bred betraktningsvinkel för perfekt bild- och färgprecision. Den har dessutom QHD-upplösning på 2560 x 1440 vilket ger en verklighetstrogen bild med hög ljusstyrka, otrolig kontrast och realistiska färger. 
-
 
 Server: HPE ProLiant DL380 Gen10
 Jag valde den här servern av många anledningar en av anledningarna är att den har möjligheten att använda RAID 10 och den har 16 diskar plus är rackmonteringsbar.
 3 års garanti, material och tillverkning på plats, svarstid: nästa arbetsdag.
 
-
 UPS: HPE T1500 G5
 På grund av att den här UPS:en har åtta stycken utgångar så ger den möjlighet till att företaget ska kunna  expandera och sen så har den 3 års garanti. 
-
 
 Webb server: HPE ProLiant DL385 Gen10 - 1.2TB & extra RAM
 Jag valde den här nät servern för att den har samma tillverkare som den andra servern och den har routing kapacitet.
 3 års garanti, material och tillverkning på plats, svarstid: nästa arbetsdag.
 
-
 HPE Aruba 2530 48-Port Gigabit Web Managed Switch 
 Jag valde den här Switchen för att den har samma tillverkare som servrarna och den har 48 nätverksportar.
-
 
 Routrar: HPE MSR1003-8
 Jag valde den här routern för att den har samma tillverkare som switchen och att den har Gigabit Ethernet.
 
-
-
-
-
-
 Accesspunkter: HPE OfficeConnect OC20 Dual Radio 802.11ac accesspunkt
 Jag valde den här accesspunkten på grund av att man kan hantera upp till åtta accesspunkter centralt med mobilappen, som även gör uppdateringar och hantering superenkelt, sen är det en fördel att det är samma tillverkare som de flesta andra produkter jag valt. Garanti i 3 år.
-
 
 Skrivare: HP Designjet T520 91.4cm (36") 
 Jag valde den här skrivare för att den är snabb och lätt att använda, den har även inbyggt WIFI och ett års garanti. Det är samma tillverkare på skrivaren som datorerna jag har valt ut och den kan skriva ut i storlekarna A,A1,A4 och med mera. 
 
-
 3D skrivare: ULTIMAKER 3 EXTENDED
 Det finns många olika anledningar varför jag valde den här 3D skrivaren, den har två skrivhuvuden och kan därför skriva ut komplexa geometrier, den kan även skriva ut i olika material sen så har den en styvare byggplattform som minskar vibrationer och ger en utmärkt utskriftskvalié.
-
 
 Projektor & duk: Epson TW-6700 Projektor & Draper Motordriven projektorduk 104tum
 Jag valde den här projektorn för att den har stöd för 3D bilder, dessutom har den 3000 ANSI lumen ljusstyrka, den har även Vertikal och horisontell lens shift. Duken är slitstark och brandsäker, och har en stor betraktningsvinkel. Tillgång till fri support och 2 års garanti.
 
-
-Ritplatta: Wacom Intuos Pro Large
+Ritplatta: Wacom Intuos Pro Larg
 Jag valde den här ritplattan för att den är tunn och enkel att koppla upp till PC eller Mac med inbyggd trådlös Bluetooth eller en USB-sladd. Den har en hög tryckkänslighet och ett imponerande gensvar på penn lutningen med i stort sett ingen fördröjning.
-
 
 Tangentbord: Logitech K740
 Den största anledningen varför jag valde det här tangentbordet var på grund av det är bekvämt och tyst, det har ett inbyggt handlovsstöd med en mjuk gummibeläggning för ökad komfort.
 
-
 Mus: Logitech M500
 Den här musen valde jag för att den har mjuka sidogrepp och rundad design som ger ökat stöd och bättre kontroll.  USB-anslutning med plug & play fungerar direkt bara anslut musen till en USB-port.
-
 
 Totalt att betala : 1 098 791,00 kr
